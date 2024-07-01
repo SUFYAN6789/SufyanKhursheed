@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm sufyan khursheed</h1>
 <h3 align="center">A passionate full stack developer from pakistan</h3>
-<img aline="right"alt="coding"width="400"src"![image](https://github.com/SUFYAN6789/SufyanKhursheed/assets/173275874/ea10fc71-ba4a-446b-9924-0119a1eab73a)
-">
+<img aline="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw370DftGEijgrUh2LOInrDc&ust=1719924843758000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiFn8TxhYcDFQAAAAAdAAAAABAJ"
 
 - 🌱 I’m currently learning **Node.js, next.js**
 
